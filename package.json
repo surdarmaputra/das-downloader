@@ -1,0 +1,12 @@
+{
+  "name": "das-downloader",
+  "version": "1.0.0",
+  "description": "Destroy All Software video downloader for free videos",
+  "main": "index.js",
+  "author": "sdarmaputra <surya.igede@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "follow-redirects": "^1.4.1",
+    "puppeteer": "^1.2.0"
+  }
+}

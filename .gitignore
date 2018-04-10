@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# editor files
+*.swp
+*.swo
+
+# output files
+*.mp4
+video-urls.json
+downloaded-video-urls.json
